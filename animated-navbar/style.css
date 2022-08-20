@@ -292,35 +292,3 @@ li {
     transform: translateY(0);
   }
 }
-
-/* @keyframes lineshow {
-  0% {
-    opacity: 0;
-    width: 0px;
-  }
-
-  20% {
-    opacity: 1;
-    width: 10px;
-  }
-
-  40% {
-    opacity: 1;
-    width: 20px;
-  }
-
-  60% {
-    opacity: 1;
-    width: 30px;
-  }
-
-  80% {
-    opacity: 1;
-    width: 50px;
-  }
-
-  100% {
-    opacity: 1;
-    width: 60px;
-  }
-} */
